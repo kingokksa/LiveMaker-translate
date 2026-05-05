@@ -11,7 +11,7 @@
 
 步骤
 ==
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=116515533751902&bvid=BV1CFRvBrEQu&cid=38082250039&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+[LiveMaker游戏汉化——附translator++、FontMod、Sakura和AI translator简要教程](https://www.bilibili.com/video/BV1CFRvBrEQu)
 
 
 相关链接
